@@ -1,1 +1,0 @@
-change meta url in index file
